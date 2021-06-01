@@ -11,7 +11,7 @@ Obstacle-and-fall-avoiding-bot is a simple Arduino-based autonomous bot it uses 
 5. BO motor *2
 6. Powerbank
 
-<sub><sup>The components used in actual project may not match the components used in Tinkercad Simulation.</sup></sub>
+<sub>The components used in actual project may not match the components used in Tinkercad Simulation.</sub>
 
 ## Tinkercad Schematic
 
