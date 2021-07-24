@@ -5,11 +5,11 @@ Obstacle-and-fall-avoiding-bot is a simple Arduino-based autonomous bot it uses 
 ## Components Used
 
 1. Arduino Uno
-2. IR sensor module *2
-3. Ultrasonic Sensor HC-SR04
-4. Motor Driver L298N
-5. BO motor *2
-6. Powerbank
+1. IR sensor module *2
+1. Ultrasonic Sensor HC-SR04
+1. Motor Driver L298N
+1. BO motor *2
+1. Powerbank
 
 <sub>The components used in actual project may not match the components used in Tinkercad Simulation.</sub>
 

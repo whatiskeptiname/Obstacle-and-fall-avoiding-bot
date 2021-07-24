@@ -94,7 +94,7 @@ void wait()
 void loop()
 {
   sensor_check(); // Get the sensors data
-  print_data(); // Print the sensors data
+  print_data(); // Print the sensors data to serial monitor
 
   if(IRs1||IRs2)
   { // move back and turn right if one of the two or both IR are high 
