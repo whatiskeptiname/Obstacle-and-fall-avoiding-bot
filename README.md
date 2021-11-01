@@ -13,10 +13,9 @@ Obstacle-and-fall-avoiding-bot is a simple Arduino-based autonomous bot it uses 
 
 <sub>The components used in actual project may not match the components used in Tinkercad Simulation.</sub>
 
-## Tinkercad Schematic
+## Tinkercad Schematic ([Tinker This](https://www.tinkercad.com/things/7roZfEygTBD-obstacle-and-fall-avoiding-bot/editel))
 
-<iframe width="725" height="453" src="https://www.tinkercad.com/embed/7roZfEygTBD?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-</iframe>
+![](obstacle_&_fall_avoidance.png)
 
 ## Working
 
